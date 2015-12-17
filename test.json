@@ -1,10 +1,13 @@
 {
     "text": "It's 80 degrees right now.",
     "attachments": [{
+        "color": "#36a64f",
         "text": "Partly cloudy today and tomorrow"
     }, {
+        "color": "#33464f",
         "text": "Partly cloudy today and tomorrow"
     }, {
+        "color": "#23a64f",
         "text": "Partly cloudy today and tomorrow"
     }]
 }
